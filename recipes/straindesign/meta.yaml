@@ -37,6 +37,7 @@ test:
   commands:
     - python -m {{ name }} --help
 
+
 about:
   home: https://github.com/brsynth/{{ name }}
   summary: Cli interface to predict gene knockout targets with an heterologous pathway
